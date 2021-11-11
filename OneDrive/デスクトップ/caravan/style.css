@@ -33,7 +33,7 @@
     background-color: gold;
   }
   .main {
-      width: 100%;
+      width: 840px;
       height: 1400px;
       background-color: green;
       display: flex;
